@@ -1,0 +1,19 @@
+{
+  "name": "vue-passthrough",
+  "version": "1.0.0",
+  "description": "vue-passthrough passthrough the event listener from parent to child component, so its made an convenient way to create wrapper component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rikuayanokozy/vue-passthrough.git"
+  },
+  "author": "Riku Ayanokoji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rikuayanokozy/vue-passthrough/issues"
+  },
+  "homepage": "https://github.com/rikuayanokozy/vue-passthrough#readme"
+}
